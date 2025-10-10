@@ -14,14 +14,6 @@
   </a>
 </p>
 
-<!-- Languages and Tools -->
-<h3 align="center">🛠️ Languages and Tools:</h3>
-<p align="center">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  </a>
-</p>
-
 ---
 
 <!-- GitHub Stats -->
