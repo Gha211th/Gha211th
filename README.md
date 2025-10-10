@@ -2,7 +2,7 @@
 <h3 align="center">Student at Junior High School IDN Boarding School Solo</h3>
 <h4 align="center">\/\~Still focussing to learn fundamental of Dart :)~/\/</h4>
 
-<p align="center">
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=gha211th&label=Profile%20views&color=grey&style=flat" alt="gha211th" />
 </p>
 
