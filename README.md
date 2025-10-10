@@ -1,6 +1,7 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Agha Ar-Rafif</h1>
 <h3 align="center">A student of IDN BS Solo</h3>
+<h5 align="center">/\/~Still learning fundamental of dart~\/\</h5>
 
 <!-- Profile Views -->
 <p align="center">
