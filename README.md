@@ -1,7 +1,8 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Agha Ar-Rafif</h1>
 <h3 align="center">A student of IDN BS Solo</h3>
-<h5 align="center">/\/~Still learning fundamental of dart~\/\</h5>
+<h5 align="center">/\/~Still learning fundamental of Flutter~\/\</h5>
+<h6 align="center">I don't why i always commit in every second i writing a code</h6>
 
 <!-- Profile Views -->
 <p align="center">
