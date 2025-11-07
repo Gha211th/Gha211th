@@ -10,7 +10,7 @@
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="leftr">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git,html,css,cpp,dart,cmake,swift" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,dart,flutter,linux" />
   </a>
 </p>
 
@@ -23,7 +23,3 @@
 </div>
 
 ---
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gha211th&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
