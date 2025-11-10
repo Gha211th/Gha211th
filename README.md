@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Agha Ar-Rafif</h1>
+<h1 align="left">Hello There 👋😁, I'm Agha Ar-Rafif</h1>
 <h3 align="left">A student of IDN BS Solo</h3>
 
 <p align="left">
