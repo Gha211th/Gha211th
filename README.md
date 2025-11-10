@@ -1,6 +1,13 @@
 <h1 align="left">Hello There 👋😁, I'm Agha Ar-Rafif</h1>
 <h3 align="left">Student of SMP IDN BS Solo🏫</h3>
 
+---
+
+<h3 align="left">🏆 GitHub Trophies:</h3>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=gha211th&theme=onedark&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gha211th&label=Profile%20views&color=lightgrey&style=flat-square" alt="gha211th" />
 </p>
