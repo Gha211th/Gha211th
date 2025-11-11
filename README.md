@@ -1,6 +1,6 @@
 # Hello There 👋😁, I'm Agha
 #### Student of SMP IDN BS Solo🏫
-#### *14 years old now*
+- *(14 years old now 2k25)*
 
 ## What do I do? 🤔
 - Building an Android application📱  
