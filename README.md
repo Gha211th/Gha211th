@@ -1,9 +1,11 @@
 # Hello There 👋😁, I'm Agha
 #### Student of SMP IDN BS Solo🏫
 - *(14 years old now 2k25)*
+- *Learning how to use flutter and dart in the right way*
 
 ## What do I do? 🤔
-- Building an Android application📱  
+- Building an Android application📱
+- Currently learn at android app dev🤳
 - I'm interested in programming such as front-end✒️ *(now)*  
 - Love something unique in tech🛠️
 
