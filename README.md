@@ -7,7 +7,7 @@
 - Love something unique in tech🛠️
 
 ---
-<h4 align="left">Here's some of my languange and tools</h4>
+## Here's some of my languange and tools
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="leftr">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
