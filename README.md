@@ -1,9 +1,9 @@
 <h1 align="left">Hello There 👋😁, I'm Agha</h1>
 <h3 align="left">Student of SMP IDN BS Solo🏫</h3>
 ##What do i do?🤔
-- Building an android application📱
-- i interested in programming such as front-end✒️ *now
-Love something that unique in tech🛠️
+  - Building an android application📱
+  - i interested in programming such as front-end✒️ *now
+  - Love something that unique in tech🛠️
 
 ---
 <h4 align="left">Here's some of my languange and tools</h4>
