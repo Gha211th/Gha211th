@@ -1,5 +1,5 @@
 # Hello There 👋😁, I'm Agha
-#### Student of SMP IDN BS Solo🏫
+## Student of SMP IDN BS Solo🏫
 - *(14 years old now 2k25)*
 - *Learning how to use flutter and dart in the right way*
 
