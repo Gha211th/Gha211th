@@ -1,8 +1,12 @@
 <h1 align="left">Hello There 👋😁, I'm Agha</h1>
 <h3 align="left">Student of SMP IDN BS Solo🏫</h3>
+<h3 align="left">What do i do?🤔</h3>
+<h4 align="left">Building an android application📱</h4>
+<h4 align="left">i interested in programming such as front-end✒️ *now</h4>
+<h4 align="left">Love something that unique in tech🛠️</h4>
 
 ---
-
+<h4 align="left">Here's some of my languange and tools</h4>
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="leftr">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
