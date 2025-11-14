@@ -7,6 +7,8 @@
 
 ## What do I do? 🤔
 - Building an Android application📱
+- Designing UI/UX🖋️
+- Graphic Design✒️
 - Currently learn at android app dev🤳
 - I'm interested in programming such as front-end✒️ *(now)*  
 - Love something unique in tech🛠️
