@@ -1,3 +1,4 @@
+![Banner](./banner_github.png)
 # Hello There 👋😁, I'm Agha
 ## Student of SMP IDN BS Solo🏫
 - *(14 years old now 2k25)*
