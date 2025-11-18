@@ -1,6 +1,6 @@
 ![Banner](./banner_github.png)
 # Hello There 👋😁, I'm Agha
-## Student of SMP IDN BS Solo🏫
+## Student of SMP IDN BS Solo🏫 (A.K.A *"junior high school"*)
 - *(14 years old now 2k25)*
 - *Learning how to use flutter and dart in a good way*
 - *Learning how to make websites in a good way*
