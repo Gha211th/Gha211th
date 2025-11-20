@@ -32,5 +32,6 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gha211th&theme=onedark)](https://github.com/gha211th/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gha211th&theme=onedark)](https://github.com/Gha211th/github-profile-trophy)
+
 
