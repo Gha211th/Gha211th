@@ -4,6 +4,7 @@
 - *(14 years old now 2k25)*
 - *Learning how to use flutter and dart in a good way*
 - *Learning how to make websites in a good way*
+- *Try to make mini-shell 'just for fun'*
 
 ## What do I do? 🤔
 - Building an Android application📱
