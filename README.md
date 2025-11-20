@@ -32,7 +32,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gha211th&theme=onedark)](https://github.com/gha211th/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=gha211th&theme=onedark)](https://github.com/gha211th/github-profile-trophy"/>
 
 
 
