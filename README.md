@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![Banner](./banner_github.png)
 # Hello There 👋😁, I'm Agha
 ## Student of SMP IDN BS Solo🏫 (A.K.A *"junior high school"*)
