@@ -32,6 +32,25 @@
 
 ---
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Gha211th&show_icons=true&count_private=true&theme=dark&hide_border=true"
+    alt="Gha211th"
+  />
+  
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Gha211th&theme=dark&hide_border=true"
+    alt="Gha211th"
+  />
+  
+  <a href="https://wakatime.com/@Gha211th">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=Gha211th&show_icons=true&layout=compact&theme=dark&hide_border=true&range=all_time"
+      alt="Gha211th"
+    />
+  </a>
+</p>
+
 
 
 
