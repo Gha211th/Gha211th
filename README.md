@@ -12,6 +12,7 @@
 - Currently learn at android app dev🤳
 - I'm interested in programming such as front-end✒️ *(now)*  
 - Love something unique in tech🛠️
+- Building my own mini-shell🖥️ *just for fun
 
 ---
 ## Here's some of my languange and tools
