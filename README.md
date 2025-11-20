@@ -32,16 +32,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://wakatime.com/@Gha211th">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=Gha211th&show_icons=true&layout=compact&theme=dark&hide_border=true&range=all_time"
-      alt="Gha211th"
-    />
-  </a>
-</p>
-
-
 
 
 
