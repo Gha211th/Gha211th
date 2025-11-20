@@ -18,7 +18,7 @@
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="leftr">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git,html,css,javascript,dart,flutter,linux,figma" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,javascript,python,dart,flutter,linux,figma" />
   </a>
 </p>
 
