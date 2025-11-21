@@ -16,8 +16,7 @@
 - Building my own mini-shell🖥️ *just for fun
 
 ## Mini Project🛠️
--  211 Shell Project🖥️ [Link)](https://github.com/Gha211th/211-Shell)
-
+-  211 Shell Project🖥️ [(Here's the Link!)](https://github.com/Gha211th/211-Shell)
 
 ---
 ## Here's some of my languange and tools
