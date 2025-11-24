@@ -13,7 +13,7 @@
 - Currently learn at android app dev🤳
 - I'm interested in programming such as front-end✒️ *(now)*  
 - Love something unique in tech🛠️
-- Building my own mini-shell🖥️ *just for fun
+- Building my own mini-shell🖥️ **upgrading my skill btw*
 
 ## My Own Mini Project🛠️
 -  211 MiniShell Project🖥️ [(Here's the Link!)](https://github.com/Gha211th/211-Shell)
