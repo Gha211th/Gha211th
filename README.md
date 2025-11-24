@@ -15,7 +15,7 @@
 - Love something unique in tech🛠️
 - Building my own mini-shell🖥️ *just for fun
 
-## Mini Project🛠️
+## My Own Mini Project🛠️
 -  211 MiniShell Project🖥️ [(Here's the Link!)](https://github.com/Gha211th/211-Shell)
 
 ---
