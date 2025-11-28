@@ -40,7 +40,7 @@
 
 <div align="center">
 
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gha211th&show_icons=true&layout=compact&theme=dark" />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gha211th&show_icons=true&layout=compact&theme=dark" />
 
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=gha211th&show_icons=true&theme=dark" />
 
