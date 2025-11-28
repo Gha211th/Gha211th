@@ -40,19 +40,19 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=gha211th&layout=compact&theme=dark&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=gha211th&layout=compact&theme=darkhub&hide_border=true" 
     width="38%" 
   />
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=gha211th&show_icons=true&theme=dark&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=gha211th&show_icons=true&theme=darkhub&hide_border=true" 
     width="45%" 
   />
 </div>
 <br>
 <div align='center'>
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=gha211th&theme=dark&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=gha211th&theme=darkhub&hide_border=true" 
     width="55%" 
   />
 
@@ -60,7 +60,7 @@
 
   <!-- WakaTime -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=gha211th&theme=dark&layout=compact&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=gha211th&theme=darkhub&layout=compact&hide_border=true" 
     width="45%"
   />
 </div>
