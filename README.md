@@ -1,5 +1,5 @@
 ![Banner](./banner_github.png)
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=gha211th&theme=darkhub" alt="gha211th" />
   </a>
@@ -35,11 +35,20 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gha211th&show_icons=true&locale=en&layout=compact&theme=dark" alt="gha211th" /></p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gha211th&show_icons=true&locale=en&layout=compact&theme=dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=gha211th&show_icons=true&locale=en&theme=dark" />
+    </td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gha211th&show_icons=true&locale=en&theme=dark" alt="gha211th" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gha211th&theme=dark" alt="gha211th" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gha211th&theme=dark" />
+</p>
 
 
 
