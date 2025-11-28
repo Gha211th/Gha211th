@@ -40,12 +40,12 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=gha211th&layout=compact&theme=darkhub&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=gha211th&layout=compact&theme=dark&hide_border=true" 
     width="38%" 
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=gha211th&show_icons=true&theme=darkhub&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=gha211th&show_icons=true&theme=dark&hide_border=true" 
     width="45%" 
   />
 </div>
@@ -54,7 +54,7 @@
 
 <div align='center'>
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=gha211th&theme=darkhub&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=gha211th&theme=dark&hide_border=true" 
     width="55%" 
   />
 
