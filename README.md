@@ -29,11 +29,11 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gha211th&show_icons=true&locale=en&layout=compact" alt="gha211th" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gha211th&show_icons=true&locale=en&layout=compact&theme=dark" alt="gha211th" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gha211th&show_icons=true&locale=en" alt="gha211th" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gha211th&show_icons=true&locale=en&theme=dark" alt="gha211th" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gha211th&" alt="gha211th" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gha211th&theme=dark" alt="gha211th" /></p>
 
 
 
