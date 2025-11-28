@@ -41,18 +41,33 @@
 <div align="center">
 
   <!-- Top Languages -->
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gha211th&show_icons=true&layout=compact&theme=dark" />
-  <br>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=gha211th&layout=compact&theme=dark&hide_border=true" 
+    width="38%" 
+  />
+  
+  <br><br>
+
   <!-- GitHub Stats -->
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=gha211th&show_icons=true&theme=dark" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=gha211th&show_icons=true&theme=dark&hide_border=true" 
+    width="45%" 
+  />
 
-</div>
+  <br><br>
 
-<div align="center">
   <!-- Streak Stats -->
-  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=gha211th&theme=dark" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gha211th&theme=dark&layout=compact" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=gha211th&theme=dark&hide_border=true" 
+    width="55%" 
+  />
+
+  <br><br>
+
+  <!-- WakaTime -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=gha211th&theme=dark&layout=compact&hide_border=true" 
+    width="45%"
+  />
 
 </div>
-
