@@ -44,9 +44,10 @@
 
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=gha211th&show_icons=true&theme=dark" />
 
-</div>
-
-<div align="center">
+  <div align="center">
   <br>
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=gha211th&theme=dark" />
 </div>
+
+</div>
+
