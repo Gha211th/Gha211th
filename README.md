@@ -59,7 +59,7 @@
 
   <!-- WakaTime -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=gha211th&theme=github_dark&layout=compact&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=gha211th&theme=dark&layout=compact&hide_border=true" 
     width="45%"
   />
 </div>
