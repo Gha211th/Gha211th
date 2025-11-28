@@ -40,14 +40,17 @@
 
 <div align="center">
 
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gha211th&show_icons=true&layout=compact&theme=dark" />
+  <!-- Top Languages -->
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gha211th&show_icons=true&layout=compact&theme=dark" />
 
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=gha211th&show_icons=true&theme=dark" />
+  <!-- GitHub Stats -->
+  <img width="38%" src="https://github-readme-stats.vercel.app/api?username=gha211th&show_icons=true&theme=dark" />
 
-  <div align="center">
-  <br>
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=gha211th&theme=dark" />
 </div>
 
+<div align="center">
+  <br>
+  <!-- Streak Stats -->
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=gha211th&theme=dark" />
 </div>
 
