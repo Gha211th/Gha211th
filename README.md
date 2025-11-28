@@ -1,4 +1,10 @@
 ![Banner](./banner_github.png)
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gha211th&theme=darkhub" alt="gha211th" />
+  </a>
+</p>
+
 # Hello There 👋😁, I'm Agha
 ## Student of SMP IDN BS Solo🏫 (A.K.A *"junior high school"*)
 - *(14 years old now 2k25)*
