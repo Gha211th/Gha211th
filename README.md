@@ -49,8 +49,10 @@
 </div>
 
 <div align="center">
-  <br>
   <!-- Streak Stats -->
   <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=gha211th&theme=dark" />
+
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gha211th&theme=dark&layout=compact" />
+
 </div>
 
