@@ -35,22 +35,16 @@
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gha211th&show_icons=true&locale=en&layout=compact&theme=dark" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=gha211th&show_icons=true&locale=en&theme=dark" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gha211th&theme=dark" />
-</p>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gha211th&show_icons=true&layout=compact&theme=dark" />
 
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=gha211th&show_icons=true&theme=dark" />
 
+</div>
 
+<div align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=gha211th&theme=dark" />
+</div>
 
 
