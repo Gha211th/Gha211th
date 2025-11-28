@@ -42,7 +42,7 @@
 
   <!-- Top Languages -->
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gha211th&show_icons=true&layout=compact&theme=dark" />
-
+  <br>
   <!-- GitHub Stats -->
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=gha211th&show_icons=true&theme=dark" />
 
@@ -51,7 +51,7 @@
 <div align="center">
   <!-- Streak Stats -->
   <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=gha211th&theme=dark" />
-
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gha211th&theme=dark&layout=compact" />
 
 </div>
