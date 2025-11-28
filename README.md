@@ -1,11 +1,5 @@
 ![Banner](./banner_github.png)
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gha211th&theme=darkhub" alt="gha211th" />
-  </a>
-</p>
-
 # Hello There 👋😁, I'm Agha
 ## Student of SMP IDN BS Solo🏫 (A.K.A *"junior high school"*)
 - *(14 years old now 2k25)*
@@ -49,18 +43,5 @@
   />
 </div>
 
-<div align='center'>
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=gha211th&theme=dark&hide_border=true" 
-    width="55%" 
-  />
 
-  <br>
-
-  <!-- WakaTime -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=gha211th&theme=dark&layout=compact&hide_border=true" 
-    width="45%"
-  />
-</div>
 
