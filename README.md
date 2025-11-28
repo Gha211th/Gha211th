@@ -40,9 +40,9 @@
 
 <div align="center">
 
-  <img width="15%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gha211th&show_icons=true&layout=compact&theme=dark" />
+  <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gha211th&show_icons=true&layout=compact&theme=dark" />
 
-  <img width="20%" src="https://github-readme-stats.vercel.app/api?username=gha211th&show_icons=true&theme=dark" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=gha211th&show_icons=true&theme=dark" />
 
 </div>
 
