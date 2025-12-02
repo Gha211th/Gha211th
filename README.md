@@ -33,10 +33,10 @@
 ---
 
 <div align="center">
-  <h1>🏆Trophy Achievement</h1>
-  <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=gha211th&theme=onedark&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-" alt="trophy"/>
+  <h1>🏆 Trophy Achievement</h1>
+  <img src="https://github-profile-trophy.vercel.app/?username=gha211th&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
 </div>
+
 
 <div align="left">
   <img 
