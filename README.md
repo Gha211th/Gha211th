@@ -6,6 +6,7 @@
 - *Learning how to use flutter and dart in a good way*
 - *Learning how to make websites in a good way*
 - *Try to make mini-shell 'just for fun'*
+- currently learn how to make a responsive layout
 
 ## What do I do? 🤔
 - Building an Android application📱
