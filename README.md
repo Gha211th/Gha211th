@@ -16,6 +16,7 @@
 - I'm interested in programming such as front-end✒️ *(now)*
 - Love something unique in tech🛠️
 - Building my own mini-shell🖥️ **upgrading my skill btw**
+- linux enthusiat ("just swith it few days ago)
 
 ## My Own Mini Project🛠️
 -  211 MiniShell Project🖥️ [(Here's the Link!)](https://github.com/Gha211th/211-Shell)
