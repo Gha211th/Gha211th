@@ -20,6 +20,7 @@
 
 ## My Own Mini Project🛠️
 -  211 MiniShell Project🖥️ [(Here's the Link!)](https://github.com/Gha211th/211-Shell)
+-  211 Shell (ShVer) project🖥️ 
 
 ---
 
