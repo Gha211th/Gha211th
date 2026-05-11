@@ -7,6 +7,8 @@ self-taught *maybe code hobbyist:p
   <img src="https://github-profile-trophy.vercel.app/?username=gha211th&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
 </div>
 
+---
+
 I've been programming since i was a kid(13), here are some of what i made :)
 
 ## My Own Mini Project🛠️
