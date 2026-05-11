@@ -1,44 +1,20 @@
 ![Banner](./banner_github.png)
 
 # Hello There 👋, I'm Agha
-## Student of SMP IDN BS Solo🏫 (A.K.A *"junior high school"*)
-- *(14 years old now 2k25)*
-- *Learning how to use flutter and dart in a good way*
-- *Learning how to make websites in a good way*
-- *Try to make mini-shell 'just for fun'*
-- currently learn how to make a responsive layout
-
-## What do I do? 🤔
-- Building an Android application📱
-- Designing UI/UX🖋️
-- Graphic Design✒️
-- Currently learn at android app dev🤳
-- I'm interested in programming such as front-end✒️ *(now)*
-- Love something unique in tech🛠️
-- Building my own mini-shell🖥️ **upgrading my skill btw**
-- linux enthusiat ("just swith it few days ago)
-
-## My Own Mini Project🛠️
--  211 MiniShell Project🖥️ [(Here's the Link!)](https://github.com/Gha211th/211-Shell)
-
----
-
-## Here's some of my languange and tools
-
-<h3 align="left">🧰 Languages and Tools:</h3>
-<p align="leftr">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git,html,css,python,dart,flutter,linux,figma" />
-  </a>
-</p>
-
----
+self-taught *maybe code hobbyist:p
 
 <div align="center">
-  <h1>🏆 Trophy Achievement</h1>
   <img src="https://github-profile-trophy.vercel.app/?username=gha211th&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
 </div>
 
+I've been programming since i was a kid(13), here are some of what i made :)
+
+## My Own Mini Project🛠️
+- [(🖥️211 Shell)](https://github.com/Gha211th/211-Shell), a simple mini shell that created with using python, OSlib, Shlexlib, etc.
+- [(🔨PyGen)](https://github.com/Gha211th/PyGen), Python code-generator(basic), build an example of code.
+
+
+---
 
 <div align="center">
   <img 
