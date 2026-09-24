@@ -4,7 +4,7 @@
 self-taught *maybe code hobbyist:p
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gha211th&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Gha211th&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -21,11 +21,11 @@ I've been programming since i was a kid(13), here are some of what i made :)
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=gha211th&layout=compact&theme=dark&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Gha211th&layout=compact&theme=dark&hide_border=true" 
     width="38%" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=gha211th&show_icons=true&theme=dark&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Gha211th&show_icons=true&theme=dark&hide_border=true" 
     width="45%" 
   />
 </div>
