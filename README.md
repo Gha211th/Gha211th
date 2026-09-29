@@ -1,11 +1,11 @@
 ![Banner](./banner_github.png)
 
 # Hello There 👋, I'm Agha
-self-taught *maybe code hobbyist:p
+self-taught(maybe), Got a new things every moment & every day
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gha211th&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
-</div>
+</div> -->
 
 ---
 
@@ -18,7 +18,7 @@ I've been programming since i was a kid(13), here are some of what i made :)
 
 
 ---
-
+<!--
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Gha211th&layout=compact&theme=dark&hide_border=true" 
@@ -29,6 +29,7 @@ I've been programming since i was a kid(13), here are some of what i made :)
     width="45%" 
   />
 </div>
+-->
 
 
 
